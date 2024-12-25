@@ -1,0 +1,4 @@
+
+
+import FAZ
+FAZ.menu()
